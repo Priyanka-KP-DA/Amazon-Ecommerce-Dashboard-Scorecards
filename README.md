@@ -211,6 +211,7 @@ This project demonstrates:
 
 <img width="1479" height="791" alt="image" src="https://github.com/user-attachments/assets/d04f6d53-d881-4310-8655-caa1a5d56dbb" />
 
+![Data Modelling](https://github.com/user-attachments/assets/2fcd8ab6-635d-4ca8-9cc0-89f7b4baab2a)
 
 <img width="1477" height="788" alt="image" src="https://github.com/user-attachments/assets/e0cfc5f8-132b-493b-aa45-1ef89960d1fd" />
 
