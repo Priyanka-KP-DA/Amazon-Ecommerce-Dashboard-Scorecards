@@ -132,7 +132,7 @@ The structured 18 KPI system cover:
 
 - Developed funnel visualizations to track user journey:
   
-   → Impressions → Clicks → Conversions  
+   → Impressions → Clicks → CTR 
    → Page Views → Conversions → CVR  
   
 - Enabled dynamic filtering using slicers (Year, Month, Channel) for interactive analysis
