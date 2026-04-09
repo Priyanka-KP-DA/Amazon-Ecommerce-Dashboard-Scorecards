@@ -16,12 +16,13 @@ Source: Kaggle (Amazon E-commerce Dataset)
 
 The project integrates **3 core datasets**:
 
-- **Orders Dataset** → Revenue, Orders, Customer behavior  
-- **Campaign Dataset** → Spend, Clicks, Impressions, Conversions  
-- **Website Traffic Dataset** → Page Views, Sessions, Engagement  
+- **Orders Dataset** ~100,000 rows (100K transactional records) → Revenue, Orders, Customer behavior  
+- **Campaign Dataset** ~1065 rows → Spend, Clicks, Impressions, Conversions  
+- **Website Traffic Dataset** ~2,007 rows → Page Views, Sessions, Engagement  
 
-Time Period: **5 Years (2019–2024)**
+Time Period: **5 Years (2019–2024)** 
 
+👉 Note: Datasets vary in granularity, with orders being transaction-level data and campaign/traffic datasets being aggregated over time.
 ---
 
 ## 🧹 Data Cleaning (Power Query) & Challenges
